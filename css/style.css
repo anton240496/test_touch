@@ -81,7 +81,6 @@ button {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  width: 600px !important;
   height: 600px;
   font-family: "Gilroy_bold", sans-serif;
   font-size: 18px;
@@ -192,7 +191,7 @@ button {
     width: 100%;
   }
   .slider_btn {
-    left: 0px;
+    left: -90px;
     transform: translate(50%, -100%);
   }
   .slick_prev {
