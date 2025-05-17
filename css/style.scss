@@ -202,6 +202,10 @@ button {
        gap: 50px;
     }
 
+    .slider{
+        width: 100%;
+    }
+
     .slider_btn{
         left: 0px;
         transform: translate(50%, -100%);
@@ -219,7 +223,7 @@ button {
        display: flex;
        flex-direction: column;
        align-items: center;
-       width: 100%;
+       width: 90%;
 
     }
 
@@ -241,7 +245,7 @@ button {
     }
 
     .about_item_text{
-        max-width: 100%;
+        max-width: 80%;
         font-size: 16px;
     }
 
