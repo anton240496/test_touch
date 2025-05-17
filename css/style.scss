@@ -202,9 +202,17 @@ button {
        gap: 50px;
     }
 
-    .slider_btn{
+   .slider_btn{
         left: 0px;
-        transform: translate(50%, 0%);
+        transform: translate(50%, -100%);
+    }
+
+    .slick_prev{
+        left: 100px;
+    }
+
+    .slick_next{
+        left: 150px;
     }
 
     .about_list{
